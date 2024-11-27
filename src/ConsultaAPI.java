@@ -31,7 +31,7 @@ public class ConsultaAPI {
 
         if (valorDeConversion != null && valorDeConversion.isJsonPrimitive()) {
             double rate = valorDeConversion.getAsDouble();
-            System.out.println(rate);
+            System.out.println("La tasa de cambio es de: "+rate);
             return cantidad * rate;
         } else {
             throw new IllegalArgumentException("Valor no encontrado");
