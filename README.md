@@ -22,3 +22,6 @@
     - Lenguajes: Java
     - Herramientas: Git ,Intellij Idea
     - Exchange Rate API https://www.exchangerate-api.com/docs/java-currency-api
+ 
+* [Estado del proyecto:](#estado-proyecto)
+  * Actualmente el proyecto funciona bien, pero me gustaruia colocar mas funcionalidades en un futuro.
